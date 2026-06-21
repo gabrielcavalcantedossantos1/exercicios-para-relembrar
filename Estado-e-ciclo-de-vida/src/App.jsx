@@ -1,10 +1,10 @@
 import React from "react";
-import { Clock } from "./components/Clock";
+import TodoList from "./components/TodoList";
 
 const App = () => {
   return (
     <div>
-      <Clock />
+      <TodoList />
     </div>
   );
 };
