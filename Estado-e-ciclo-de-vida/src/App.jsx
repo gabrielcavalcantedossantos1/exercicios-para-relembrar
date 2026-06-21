@@ -1,10 +1,9 @@
 import React from "react";
-import TodoList from "./components/TodoList";
-
+import LarguraTela from "./components/LarguraTela";
 const App = () => {
   return (
     <div>
-      <TodoList />
+      <LarguraTela />
     </div>
   );
 };
