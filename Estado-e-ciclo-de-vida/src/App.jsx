@@ -1,9 +1,9 @@
 import React from "react";
-import LarguraTela from "./components/LarguraTela";
+import Fetch from "./components/Fetch";
 const App = () => {
   return (
     <div>
-      <LarguraTela />
+      <Fetch />
     </div>
   );
 };
